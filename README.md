@@ -20,7 +20,7 @@ __Technical skills:__ Microsoft Excel, SQL, Tableau, R
 
 ### R
 
-* [FitTime Case Study](https://github.com/warrenkare/FitTime-Case-Study)
+* [FitTime Case Study](https://warrenkare.github.io/FitTime-Case-Study)
 
 ### Tableau
 * [Click here to see my vizzes](https://public.tableau.com/app/profile/warrenkare/)
